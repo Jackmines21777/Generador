@@ -5,8 +5,6 @@
     margin: 0;
     padding: 0;
     /* background-color: #C0C0C0; */
-    text-align: center;
-    /* justify-content: center; */
   }
 
   .Columna{
@@ -16,30 +14,30 @@
 
     font-weight: bolder;
     font-size: 120%;
-    /* padding-left: 5%; */
+    padding-left: 5%;
     padding: 10px;
     margin-bottom: 1.5%;
-    text-align: center;
+    /* text-align: center; */
   }
 
   .Opciones{
     text-align: justify;
     background-color: #EAEFF2;
     font-size: 100%;
-    /* padding-left: 10%; */
-    text-align: center;
+    padding-left: 10%;
+    /* text-align: center; */
 
   }
 
 .input {
     margin-bottom: 1.5%;
-    text-align: center;
+
   }  
 
   input[type="checkbox"] {
     width: 15px;
     height: 15px; 
-    text-align: center;
+  
   }
 
   summary {
@@ -48,7 +46,7 @@
     /* background-color: #81E9FF; */
     border-radius: 8px;
     margin-bottom: 1.5%;
-    text-align: center;
+    
     
     
   }
